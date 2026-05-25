@@ -24,4 +24,5 @@ Prioritize market_1 — With 62.5% of all repeat calls, market_1 needs dedicated
 Study market_2 Best Practices — market_2 low repeat rate (3.9%) suggests effective resolution practices. Identify and replicate those practices across market_1 and market_3.
 Track Week-over-Week Trends — Build real-time dashboards segmented by week and quarter to detect spikes early and measure the impact of improvement initiatives.
 
+<img width="978" height="552" alt="Dashboard" src="https://github.com/user-attachments/assets/76c0f9a7-81f3-4b23-b93f-812257b9a6ec" />
 
